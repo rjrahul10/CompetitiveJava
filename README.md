@@ -10,12 +10,13 @@ Create your first Java program!
 
 [_Wikipedia_](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 ### Lists
-A list is one of the most popular data structures, learn to master its concept and mysteries. Mastering lists is one of many requirements to be a good developer.
+>A list is one of the most popular data structures, learn to master its concept and mysteries. Mastering lists is one of many requirements to be a good developer.
 #### ArrayList
 >In computer science, a dynamic array, growable array, resizable array, dynamic table, mutable array, or array list is a random access, variable-size list data structure that allows elements to be added or removed. It is supplied with standard libraries in many modern mainstream programming languages. Dynamic arrays overcome a limit of static arrays, which have a fixed capacity that needs to be specified at allocation.
 
 ### DynamicArray
-A dynamic array is not the same thing as a dynamically allocated array, which is an array whose size is fixed when the array is allocated, although a dynamic array may use such a fixed-size array as a back end.
+>A dynamic array is not the same thing as a dynamically allocated array, which is an array whose size is fixed when the array is allocated, although a dynamic array may use such a fixed-size array as a back end.
+
 [_Wikipedia_](https://en.wikipedia.org/wiki/Dynamic_array)
 #### HashMap
 >In computer science, a HashMap or a Hashtable are abstract data type in which each value is mapped with its keys. A hash table uses hash function to mapped with the index called the Hashcode. A hashfunction should think about the collision such as if for two different values if we have the same keys values. A hash table is the most efficient way for searching as it can perform search operation in O(1) time.
