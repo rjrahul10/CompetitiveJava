@@ -14,9 +14,12 @@ A list is one of the most popular data structures, learn to master its concept a
 #### ArrayList
 >In computer science, a dynamic array, growable array, resizable array, dynamic table, mutable array, or array list is a random access, variable-size list data structure that allows elements to be added or removed. It is supplied with standard libraries in many modern mainstream programming languages. Dynamic arrays overcome a limit of static arrays, which have a fixed capacity that needs to be specified at allocation.
 
+### DynamicArray
 A dynamic array is not the same thing as a dynamically allocated array, which is an array whose size is fixed when the array is allocated, although a dynamic array may use such a fixed-size array as a back end.
-
 [_Wikipedia_](https://en.wikipedia.org/wiki/Dynamic_array)
+#### HashMap
+>In computer science, a HashMap or a Hashtable are abstract data type in which each value is mapped with its keys. A hash table uses hash function to mapped with the index called the Hashcode. A hashfunction should think about the collision such as if for two different values if we have the same keys values. A hash table is the most efficient way for searching as it can perform search operation in O(1) time.
+[_Wikipedia_](https://en.wikipedia.org/wiki/Hash_table)
 #### LinkedList
 >In computer science, a linked list is a linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence. This structure allows for efficient insertion or removal of elements from any position in the sequence during iteration. More complex variants add additional links, allowing more efficient insertion or removal of nodes at arbitrary positions. A drawback of linked lists is that access time is linear (and difficult to pipeline). Faster access, such as random access, is not feasible. Arrays have better cache locality compared to linked lists. 
 
@@ -25,6 +28,7 @@ A dynamic array is not the same thing as a dynamically allocated array, which is
 ### Loops
 Your best tools as a programmer: control flow. Looping is the quintenscence of your work, not duplicating X times your code but factorising it and leaving a small footprint.
 >In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language. 
+
 [_Wikipedia_](https://en.wikipedia.org/wiki/Control_flow)
 
 
